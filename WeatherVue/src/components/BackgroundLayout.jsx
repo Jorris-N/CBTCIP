@@ -17,7 +17,7 @@ const BackgroundLayout = () => {
     if (weather.conditions) {
       let imageString = weather.conditions
       if (imageString.toLowerCase().includes('clear')) {
-        setImage(Clear)
+        setImage(Sunny)
       } else if (imageString.toLowerCase().includes('cloud')) {
         setImage(Cloudy)
       } else if (imageString.toLowerCase().includes('rain') || imageString.toLowerCase().includes('shower')) {
