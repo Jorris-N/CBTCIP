@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "date": "Sept 10, 2018",
+        "publisher": "admin",
+        "title": "environmental impact",
+        "description": "After one of our church fellowships, beneficiaries were selecting clothes during our cloth donation event."
+    },
+    {
+        "id": 2,
+        "image": "https://images.unsplash.com/photo-1599507593548-0187ac4043c6?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "date": "Sept 10, 2018",
+        "publisher": "admin",
+        "title": "construction industry myths",
+        "description": "A lunch session with some of the community members that participated in the food donation activty."
+    },
+    {
+        "id": 3,
+        "image": "https://images.unsplash.com/photo-1623282033815-40b05d96c903?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "date": "Sept 10, 2018",
+        "publisher": "admin",
+        "title": "architecture news",
+        "description": "During the activity a lot of foood was given out to the community especially those that needed were dangerously low on food rations."
+    },
+    {
+        "id": 4,
+        "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "date": "Sept 10, 2018",
+        "publisher": "admin",
+        "title": "working environment",
+        "description": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life"
+    },
+    {
+        "id": 5,
+        "image": "https://images.unsplash.com/photo-1675495277087-10598bf7bcd1?q=80&w=1376&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "date": "Sept 10, 2018",
+        "publisher": "admin",
+        "title": "our goals",
+        "description": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life"
+    },
+    {
+        "id": 6,
+        "image": "https://images.unsplash.com/photo-1529429612779-c8e40ef2f36d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "date": "Sept 10, 2018",
+        "publisher": "admin",
+        "title": "clean water for urban area",
+        "description": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life"
+    }
+]
