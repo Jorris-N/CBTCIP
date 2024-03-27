@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "comment": "Working with JN CodeWorks was a dream. Responsive, creative, and always exceeding our wildest web dreams. Lukeman Homestays & Airbnb is forever grateful.",
+        "image": "/images/logos/lukeman.png",
+        "name": "Lucas Suleiman",
+        "firm": "Lukeman Homestays & Airbnb"
+    },
+    {
+        "id": 2,
+        "comment": "More than just a website, it's an invitation to explore. Your design has ignited our safari dreams and bookings are soaring! Thank you!",
+        "image": "/images/logos/explore.png",
+        "name": "Rosemary Mayo",
+        "firm": "Explore Galore Tours & Safaris"
+    },
+    {
+        "id": 3,
+        "comment": "Edmil Solution's sleek website perfectly balances professional and modern. Your design genius boosted inquiries, exceeding expectations!",
+        "image": "/images/logos/edmil.jpg",
+        "name": "Edson Murimi",
+        "firm": "Edmil Solutions Ltd."
+    },
+    {
+        "id": 4,
+        "comment": "JN CodeWorks crafted a website that beautifully showcases our stories and impact. The interactive elements are engaging and keep visitors coming back",
+        "image": "/images/logos/heart.jpg",
+        "name": "Rajab Itambo",
+        "firm": "Heart of Help Foundation"
+    }
+]
